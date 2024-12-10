@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "667763483452",
+    "firebase_url": "https://er-squadscore-default-rtdb.firebaseio.com",
+    "project_id": "er-squadscore",
+    "storage_bucket": "er-squadscore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667763483452:android:8a907df8a13f00636d3439",
+        "android_client_info": {
+          "package_name": "app.minseo.ErSquad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtnksunL0BWv2w3uJOo2w-RdNUmheQOTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667763483452:android:f4aa35f93fdc48bb6d3439",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtnksunL0BWv2w3uJOo2w-RdNUmheQOTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

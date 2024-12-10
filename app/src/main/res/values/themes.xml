@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/purple_200</item>
+        <item name="colorOnPrimaryContainer">@color/purple_700</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Background and surface colors -->
+        <item name="colorBackground">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+
+        <!-- Disable the action bar -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
