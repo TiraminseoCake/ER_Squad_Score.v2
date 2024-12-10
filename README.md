@@ -105,5 +105,5 @@
 - [이터널 리턴 개발자 포털](https://developer.playeternalreturn.com/)
 - [Firebase 공식 문서](https://firebase.google.com/docs)
 - [Scikit-Learn 협업 필터링 알고리즘](https://scikit-learn.org/stable/)
-
+- [이터널 리턴 개발자 포털 디스코트](https://discord.gg/b4XxYet2qk)
 ---
