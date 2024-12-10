@@ -1,6 +1,6 @@
 # ER(이터널 리턴)캐릭터 조합 추천 시스템
 
-![메인 이미지]([Season 1_PC_3840 x 2160.png](https://drive.google.com/drive/folders/1aDtzRkYkiGDmpIul9EZx29B-qWClOpQh))
+![이터널리턴](Season%201_PC_3840%20x%202160.png)
 
 이 프로젝트는 [이터널 리턴](https://playeternalreturn.com)의 데이터를 기반으로 최적의 캐릭터 조합을 추천하는 시스템입니다. 데이터를 활용하여 협업 필터링 기반으로 최적의 캐릭터 조합을 분석하고, 특정 캐릭터를 고정하여 최적의 조합을 추천합니다.
 
